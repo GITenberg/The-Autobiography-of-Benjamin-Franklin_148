@@ -1,5 +1,8 @@
 _repo: The-Autobiography-of-Benjamin-Franklin_148
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Franklin, Benjamin
@@ -24,6 +27,8 @@ description: "The Autobiography of Benjamin Franklin is the traditional name for
   \ periods at which he wrote them. There are actual breaks in the narrative between\
   \ the first three parts, but Part Three's narrative continues into Part Four without\
   \ an authorial break (only an editorial one).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/148#The-Autobiography-of-Benjamin-Franklin
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '1994-07-01'
 gutenberg_type: Text
